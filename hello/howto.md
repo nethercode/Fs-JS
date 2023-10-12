@@ -5,6 +5,7 @@
 For more information, visit: <https://github.com/nvm-sh/nvm>
 
 ### How to run `index.js`
-```
+```bash
 $ node .
+Hello, World!
 ```
